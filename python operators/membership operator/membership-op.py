@@ -1,0 +1,15 @@
+'''
+Membership operators are used to test if a sequence is presented in an object:
+
+Operator	Description	                                                                      Example	
+in 	        Returns True if a sequence with the specified value is present in the object	  x in y	
+not in	    Returns True if a sequence with the specified value is not present in the object  x not in y
+'''
+
+fruits = ["apple", "banana", "cherry"]
+
+#check if "banana" is present in a list:
+print("banana" in fruits)
+
+##check if "banana" is NOT present in a list:
+print("orange" is not fruits)
