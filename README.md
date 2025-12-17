@@ -1,0 +1,1 @@
+aku sedang belajar bahasa pemrograman dasar python sebelum lanjut untuk memahami machine learning
