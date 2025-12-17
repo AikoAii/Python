@@ -1,0 +1,7 @@
+#List items are ordered, changeable, and allow duplicate values.
+# List items are indexed, the first item has index [0], the second item has index [1] etc.
+
+mylist = ["first", "second", "three"]
+print(mylist[0])
+print(mylist[1])
+print(mylist[2])
